@@ -1,16 +1,35 @@
-# NoPixel Control Qt
+# NoPixel NeoPixel Control System (Qt + ESP32)
 
-A Qt-based vehicle control application inspired by NoPixel-style vehicle interaction systems for FiveM/RP environments.
+A Windows-based desktop application built with Qt that provides real-time control of NeoPixel LED effects through an ESP32 microcontroller using HTTP communication.
 
-This project provides a desktop-style interface for controlling vehicle-related actions such as doors, windows, engine state, seats, and other convenience features.
+The system allows users to interact with addressable LEDs via a simple graphical interface, where commands are sent from the Qt application to the ESP32 over a local network.
 
-## 📌 Overview
+## Project Overview
 
-NoPixel Control Qt is designed as a lightweight external control panel built with Qt. It mimics in-game vehicle control menus but runs as a standalone application, allowing fast and intuitive interaction.
+This project acts as a bridge between a desktop UI and an embedded lighting system.
 
-It is useful for:
+- The **Qt application (Windows)** provides the control interface
+- The **ESP32** receives HTTP requests over Wi-Fi
+- The **NeoPixel LEDs** update in real time based on received commands
 
-- Roleplay servers using vehicle control systems
-- Developers testing vehicle interaction logic
-- UI/UX experimentation for RP tools
-- External control overlay concepts
+This creates a simple and responsive system for controlling LED animations without needing direct wiring to a PC.
+
+## What the system does
+
+The application allows users to:
+
+- Select different NeoPixel lighting modes
+- Trigger predefined LED animations
+- Send control commands to ESP32 over HTTP
+- Update LED states in real time
+- Manage lighting behavior through a graphical UI instead of manual coding
+
+---
+
+## System Architecture
+
+Windows Qt App
+↓ HTTP Requests
+ESP32 Microcontroller
+↓
+NeoPixel LED Strip
