@@ -1,0 +1,15 @@
+-rootPath
+Q:/Qt Projects/httpInteraction
+-cmake-output
+-output-file
+Q:/Qt Projects/httpInteraction/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/.qt/qml_imports/apphttpInteraction_conf.cmake
+-importPath
+Q:/Qt Projects/httpInteraction/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug
+-importPath
+Q:/Qt Projects/httpInteraction/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/httpInteraction
+-importPath
+Q:/Qt/6.11.0/mingw_64/qml
+-qrcFiles
+Q:/Qt Projects/httpInteraction/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/.qt/rcc/qmake_httpInteraction.qrc
+Q:/Qt Projects/httpInteraction/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/.qt/rcc/apphttpInteraction_raw_qml_0.qrc
+Q:/Qt Projects/httpInteraction/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/.qt/rcc/apphttpInteraction_raw_res_0.qrc

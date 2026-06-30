@@ -1,0 +1,3 @@
+Q:\Qt\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\apphttpInteraction.dir/objects.a
+Q:\Qt\Tools\mingw1310_64\bin\ar.exe qc CMakeFiles\apphttpInteraction.dir/objects.a @CMakeFiles\apphttpInteraction.dir\objects1.rsp
+Q:\Qt\Tools\mingw1310_64\bin\g++.exe -g -mwindows -Wl,--whole-archive CMakeFiles\apphttpInteraction.dir/objects.a -Wl,--no-whole-archive -o apphttpInteraction.exe -Wl,--out-implib,libapphttpInteraction.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\apphttpInteraction.dir\linkLibs.rsp

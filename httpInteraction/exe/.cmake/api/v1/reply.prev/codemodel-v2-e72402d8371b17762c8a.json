@@ -1,0 +1,223 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-84e31d77fe649da895cf.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "httpInteraction",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-255dc32469ef594a39fc.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-0d3328256b31fb7163a0.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-3529af73c4ef044566a7.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-e00c9b3b417fdd056498.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-6083cf1ba70b90690062.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apphttpInteraction::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apphttpInteraction-Debug-a60ff5ecbab133a316e4.json",
+					"name" : "apphttpInteraction",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apphttpInteraction_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apphttpInteraction_autogen-Debug-ebde179ec7aba61ddc18.json",
+					"name" : "apphttpInteraction_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apphttpInteraction_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apphttpInteraction_autogen_timestamp_deps-Debug-102b802d16e17912ec03.json",
+					"name" : "apphttpInteraction_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apphttpInteraction_copy_qml::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apphttpInteraction_copy_qml-Debug-efa1bbca57f8a7332e91.json",
+					"name" : "apphttpInteraction_copy_qml",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apphttpInteraction_copy_res::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apphttpInteraction_copy_res-Debug-2be3757a50af27e79fd7.json",
+					"name" : "apphttpInteraction_copy_res",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apphttpInteraction_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apphttpInteraction_qmlimportscan-Debug-612064d29e962e64510b.json",
+					"name" : "apphttpInteraction_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apphttpInteraction_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apphttpInteraction_qmllint-Debug-e3349da466a1695d33df.json",
+					"name" : "apphttpInteraction_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apphttpInteraction_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apphttpInteraction_qmllint_json-Debug-c3b3e7a7a761598ff7b2.json",
+					"name" : "apphttpInteraction_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apphttpInteraction_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apphttpInteraction_qmllint_module-Debug-8b6ea45655119109f87a.json",
+					"name" : "apphttpInteraction_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apphttpInteraction_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apphttpInteraction_qmltyperegistration-Debug-55227d2778b652bffb72.json",
+					"name" : "apphttpInteraction_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "clean_qml_context_properties::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-clean_qml_context_properties-Debug-78f205fa6ab913a4a087.json",
+					"name" : "clean_qml_context_properties",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dump_qml_context_properties::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dump_qml_context_properties-Debug-7353c5984bb072f91b8a.json",
+					"name" : "dump_qml_context_properties",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "generate_qmlls_build_ini_file::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-generate_qmlls_build_ini_file-Debug-7ce382ef1b4618ffbdfb.json",
+					"name" : "generate_qmlls_build_ini_file",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_apphttpInteraction_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_apphttpInteraction_aotstats_target-Debug-2e29bc97fbcae6c53b50.json",
+					"name" : "module_apphttpInteraction_aotstats_target",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "Q:/Qt Projects/httpInteraction/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug",
+		"source" : "Q:/Qt Projects/httpInteraction"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

@@ -1,0 +1,6 @@
+module httpInteraction
+typeinfo apphttpInteraction.qmltypes
+prefer :/qt/qml/httpInteraction/
+Main 254.0 Main.qml
+depends QtQuick
+

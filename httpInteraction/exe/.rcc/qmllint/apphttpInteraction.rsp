@@ -1,0 +1,16 @@
+--bare
+-I
+Q:/Qt Projects/httpInteraction/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug
+-I
+Q:/Qt Projects/httpInteraction/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/httpInteraction
+-I
+Q:/Qt Projects/httpInteraction/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug
+-I
+Q:/Qt/6.11.0/mingw_64/qml
+--resource
+Q:/Qt Projects/httpInteraction/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/.qt/rcc/qmake_httpInteraction.qrc
+--resource
+Q:/Qt Projects/httpInteraction/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/.qt/rcc/apphttpInteraction_raw_qml_0.qrc
+--resource
+Q:/Qt Projects/httpInteraction/build/Desktop_Qt_6_11_0_MinGW_64_bit-Debug/.qt/rcc/apphttpInteraction_raw_res_0.qrc
+Q:/Qt Projects/httpInteraction/Main.qml

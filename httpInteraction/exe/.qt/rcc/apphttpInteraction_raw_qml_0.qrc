@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/httpInteraction/">
+    <file alias="Main.qml">Q:/Qt Projects/httpInteraction/Main.qml</file>
+  </qresource>
+</RCC>
+

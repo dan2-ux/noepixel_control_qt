@@ -1,0 +1,27 @@
+{
+    "classes": [
+        {
+            "className": "DataStorer",
+            "lineNumber": 6,
+            "methods": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "lineNumber": 12,
+                    "name": "getURL",
+                    "returnType": "QString"
+                }
+            ],
+            "object": true,
+            "qualifiedClassName": "DataStorer",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "dataStorer.h",
+    "outputRevision": 69
+}

@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/httpInteraction/">
+    <file alias="uk_flag.png">Q:/Qt Projects/httpInteraction/uk_flag.png</file>
+  </qresource>
+</RCC>
+
