@@ -24,8 +24,6 @@ The application allows users to:
 - Update LED states in real time
 - Manage lighting behavior through a graphical UI instead of manual coding
 
----
-
 ## System Architecture
 
 Windows Qt App
